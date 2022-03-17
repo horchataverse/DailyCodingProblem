@@ -16,9 +16,7 @@ def test_calculation():
 
     assert foo.solve(elements) == result
 
-# 3,6,6
-# 6,2,1
-# 2, 3, 6
+
 def test_other_calculation():
     foo = problem11
     elements = [3, 2, 1]
